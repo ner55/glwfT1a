@@ -1,0 +1,6 @@
+C:/c++/glfwT1a/build/CMakeFiles/GlfwT1a.dir
+C:/c++/glfwT1a/build/CMakeFiles/ALL_BUILD.dir
+C:/c++/glfwT1a/build/CMakeFiles/ZERO_CHECK.dir
+C:/c++/glfwT1a/build/external/glfw/CMakeFiles/ALL_BUILD.dir
+C:/c++/glfwT1a/build/external/glfw/src/CMakeFiles/glfw.dir
+C:/c++/glfwT1a/build/external/glfw/src/CMakeFiles/update_mappings.dir

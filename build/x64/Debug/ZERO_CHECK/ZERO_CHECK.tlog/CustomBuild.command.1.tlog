@@ -1,0 +1,10 @@
+^C:\C++\GLFWT1A\BUILD\CMAKEFILES\3C61D198D7D6013D75993C0764A443A2\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\CMake\bin\cmake.exe" -SC:/c++/glfwT1a -BC:/c++/glfwT1a/build --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/c++/glfwT1a/build/GlfwT1a.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
